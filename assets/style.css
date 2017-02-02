@@ -73,10 +73,9 @@ h3 {
 
 .connect {
 	border: 2px solid #ddd;
-	margin-left: 5%;
 	margin-top: 5%;
 	background-color: #fff;
-	margin-bottom: 15%;
+	margin-bottom: 30%;
 }
 
 .main-hr {
@@ -85,15 +84,14 @@ h3 {
 
 .connect-hr {
 	border: 1px solid #777;
-	width: 190px;
-	margin-left: 5%;
 }
 
 
 .social-media img {
-	width: 50px;
-	height: 50px;
-	margin-bottom: 20px;
+
+	width: 70px;
+	height: 70px;
+	margin-bottom: 15px;
 
 }
 
@@ -178,7 +176,7 @@ input, textarea{
 
 .portfolio-section{
 	height: auto;
-	margin-bottom: 13%;
+	
 }
 
 .left-side{
